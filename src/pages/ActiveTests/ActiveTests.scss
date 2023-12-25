@@ -1,0 +1,22 @@
+.test-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.test-item {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 200px;
+  padding: 24px;
+  margin: 10px 24px;
+  border: 1px solid var(--dark-color);
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.test-card-image {
+  width: 150px;
+}

@@ -1,0 +1,42 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  width: 100%;
+  border-bottom: 1px solid var(--grey-color);
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.logo:hover {
+  transform: scale(1.2);
+}
+
+.input-container {
+  width: 300px;
+}
+
+.header-input {
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}

@@ -1,0 +1,16 @@
+.form-login {
+  padding: 1rem;
+  border: 1px dotted #ccc;
+  margin: 0.7rem auto;
+  max-width: 500px;
+  border-radius: 5px;
+}
+
+.invalid {
+  background-color: var(--danger-color);
+  color: var(--light-color);
+}
+
+.form-error {
+  height: 24px;
+}
