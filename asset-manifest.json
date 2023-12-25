@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oski-fe/static/css/main.083bc9de.css",
+    "main.js": "/oski-fe/static/js/main.2bf2b4da.js",
+    "static/js/787.f607e295.chunk.js": "/oski-fe/static/js/787.f607e295.chunk.js",
+    "index.html": "/oski-fe/index.html",
+    "main.083bc9de.css.map": "/oski-fe/static/css/main.083bc9de.css.map",
+    "main.2bf2b4da.js.map": "/oski-fe/static/js/main.2bf2b4da.js.map",
+    "787.f607e295.chunk.js.map": "/oski-fe/static/js/787.f607e295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083bc9de.css",
+    "static/js/main.2bf2b4da.js"
+  ]
+}
